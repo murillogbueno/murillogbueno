@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Murillo!
 
-<!--
-**murillogbueno/murillogbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Automation & AI Enthusiast
+- ADS Student
+- Studying Python for Data Automation
+- Learning SQL, Power BI and APIs
+- Interested in Artificial Intelligence applied to business
+- São Paulo, Brazil
 
-Here are some ideas to get you started:
+- Technologies -
+Python
+SQL
+Pandas
+Power BI
+APIs
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+- Data Automation
+- AI Automation
+- Dashboards
+- Machine Learning
+
+- Goals -
+Build intelligent solutions that automate processes and optimize business operations.
