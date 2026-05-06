@@ -21,5 +21,5 @@ Currently Learning:
 - Dashboards
 - Machine Learning
 
-- Goals -
+Goals:
 Build intelligent solutions that automate processes and optimize business operations.
