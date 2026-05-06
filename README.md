@@ -7,13 +7,13 @@ Data Automation & AI Enthusiast
 - Interested in Artificial Intelligence applied to business
 - São Paulo, Brazil
 
-- Technologies -
-Python
-SQL
-Pandas
-Power BI
-APIs
-Git & GitHub
+Technologies
+- Python
+- SQL
+- Pandas
+- Power BI
+- APIs
+- Git & GitHub
 
 Currently Learning:
 - Data Automation
